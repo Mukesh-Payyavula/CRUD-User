@@ -1,0 +1,19 @@
+.navbar {
+    background-color: rgb(16, 127, 161);
+}
+
+.Navbar .Navbar-brand{
+    color: black;
+}
+
+.nav-link{
+    color: #1b0202;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+@media (max-width: 576px) {
+    .nav-link{
+        margin-right: 0;
+    }
+}
